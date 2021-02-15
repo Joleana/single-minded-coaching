@@ -1,0 +1,19 @@
+<%= link_to "Ask another question", ask_path %>
+
+<!DOCTYPE html>
+</html>
+  <head>
+    <h1>Coach 🚀</h1>
+  </head>
+  <body>
+    <div id=q-container>
+      <%= @search_query %>
+        <p>-You</p>
+    </div>
+  <br>
+    <div id=a-container>
+      <%=@search_result %>
+        <p>-Coach</p>
+    </div>
+  </body>
+</html>
