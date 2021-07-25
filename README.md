@@ -23,7 +23,7 @@ bundle install
 
 * Deployment instructions: \
 
-From parent directory, launch the server to see the Rails' welcome page
+From parent directory, launch the server to see the Rails' welcome page.
 ```bash
 rails s
 ```
