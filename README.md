@@ -29,8 +29,7 @@ From parent directory, launch the server to see the Rails' welcome page
 ```bash
 rails s
 ```
-Navigate to ![localhost:3000/ask](http://localhost:3000/ask) to generate the
-form to ask the coach a question.
+Navigate to localhost:3000/ask to generate the form to ask the coach a question.
 
 The coach's answer will then be displayed.
 
