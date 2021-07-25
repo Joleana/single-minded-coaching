@@ -21,7 +21,7 @@ bundle install
 * Services (job queues, cache servers, search engines, etc.)
 -->
 
-* Deployment instructions:
+* Deployment instructions: \
 From parent directory, launch the server to see the Rails' welcome page
 ```bash
 rails s
