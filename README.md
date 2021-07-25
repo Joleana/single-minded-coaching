@@ -4,9 +4,6 @@ A basic web app using the Rails framework, in which a single-minded coach is
 only interested in one thing: if you are going to work.
 
 
-
-Things you may want to cover:
-
 * Ruby version:
 ruby 2.6
 
